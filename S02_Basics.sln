@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T010_HelloWorld", "T010_HelloWorld\T010_HelloWorld.csproj", "{2034D15A-A788-433A-B78C-6541A47C4A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T010_HelloWorld", "T010_HelloWorld\T010_HelloWorld.csproj", "{2034D15A-A788-433A-B78C-6541A47C4A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T012_HelloWorld_ConsoleWriteLine", "T012_HelloWorld_ConsoleWriteLine\T012_HelloWorld_ConsoleWriteLine.csproj", "{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T012_HelloWorld_ConsoleWriteLine", "T012_HelloWorld_ConsoleWriteLine\T012_HelloWorld_ConsoleWriteLine.csproj", "{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T015_ConsoleWriteLineWithArgs", "T015_ConsoleWriteLineWithArgs\T015_ConsoleWriteLineWithArgs.csproj", "{2C95B769-EF63-4F81-BA62-7902F6990AE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T015_ConsoleWriteLineWithArgs", "T015_ConsoleWriteLineWithArgs\T015_ConsoleWriteLineWithArgs.csproj", "{2C95B769-EF63-4F81-BA62-7902F6990AE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T015a1_Assignment_ConsoleWriteLine", "T015a1_Assignment_ConsoleWriteLine\T015a1_Assignment_ConsoleWriteLine.csproj", "{339EE938-304E-465A-BA16-7B42419D56FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T015a1_Assignment_ConsoleWriteLine", "T015a1_Assignment_ConsoleWriteLine\T015a1_Assignment_ConsoleWriteLine.csproj", "{339EE938-304E-465A-BA16-7B42419D56FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T017_Variables", "T017_Variables\T017_Variables.csproj", "{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T017_Variables", "T017_Variables\T017_Variables.csproj", "{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T017a1_Assignmet_Variables", "T017a1_Assignmet_Variables\T017a1_Assignmet_Variables.csproj", "{49AE8C8E-00AC-4EAD-B791-F42053C997B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T018_DataStructures", "T018_DataStructures\T018_DataStructures.csproj", "{99242CCB-9035-4CBF-A28D-3C46F6074110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T018_DataStructures", "T018_DataStructures\T018_DataStructures.csproj", "{99242CCB-9035-4CBF-A28D-3C46F6074110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T017a1_Assignment_Variables", "T017a1_Assignment_Variables\T017a1_Assignment_Variables.csproj", "{44FBCB1E-5BC5-48D9-8BED-1D6AD7DB8581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,14 +43,14 @@ Global
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{99242CCB-9035-4CBF-A28D-3C46F6074110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{99242CCB-9035-4CBF-A28D-3C46F6074110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99242CCB-9035-4CBF-A28D-3C46F6074110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99242CCB-9035-4CBF-A28D-3C46F6074110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FBCB1E-5BC5-48D9-8BED-1D6AD7DB8581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FBCB1E-5BC5-48D9-8BED-1D6AD7DB8581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FBCB1E-5BC5-48D9-8BED-1D6AD7DB8581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FBCB1E-5BC5-48D9-8BED-1D6AD7DB8581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
