@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T021a1_Assignment_Condition
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T022_Loop", "T022_Loop\T022_Loop.csproj", "{9ADA984A-F408-4EEB-84C9-B88CE8B8A68C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T022a1_Assignment_Loop", "T022a1_Assignment_Loop\T022a1_Assignment_Loop.csproj", "{52373D05-B19C-4602-9417-C7E2F1A85E41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9ADA984A-F408-4EEB-84C9-B88CE8B8A68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADA984A-F408-4EEB-84C9-B88CE8B8A68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADA984A-F408-4EEB-84C9-B88CE8B8A68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52373D05-B19C-4602-9417-C7E2F1A85E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52373D05-B19C-4602-9417-C7E2F1A85E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52373D05-B19C-4602-9417-C7E2F1A85E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52373D05-B19C-4602-9417-C7E2F1A85E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
