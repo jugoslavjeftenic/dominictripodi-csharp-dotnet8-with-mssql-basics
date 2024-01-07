@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T010_HelloWorld", "T010_Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T012_HelloWorld_ConsoleWriteLine", "T012_HelloWorld_ConsoleWriteLine\T012_HelloWorld_ConsoleWriteLine.csproj", "{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T015_ConsoleWriteLineWithArgs", "T015_ConsoleWriteLineWithArgs\T015_ConsoleWriteLineWithArgs.csproj", "{2C95B769-EF63-4F81-BA62-7902F6990AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CFBD4A2-ACF5-45D2-AA07-B823E97523EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C95B769-EF63-4F81-BA62-7902F6990AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C95B769-EF63-4F81-BA62-7902F6990AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C95B769-EF63-4F81-BA62-7902F6990AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C95B769-EF63-4F81-BA62-7902F6990AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
