@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T015a1_Assignment_ConsoleWr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T017_Variables", "T017_Variables\T017_Variables.csproj", "{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T017a1_Assignmet_Variables", "T017a1_Assignmet_Variables\T017a1_Assignmet_Variables.csproj", "{49AE8C8E-00AC-4EAD-B791-F42053C997B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BD1DE3-4EC6-4CD1-B81E-B05C177D438A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AE8C8E-00AC-4EAD-B791-F42053C997B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
