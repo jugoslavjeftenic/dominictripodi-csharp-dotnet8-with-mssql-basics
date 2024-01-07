@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T023_Methods", "T023_Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T023a1_Assignment_Methods", "T023a1_Assignment_Methods\T023a1_Assignment_Methods.csproj", "{02CD515B-0920-4BB9-998A-CA8136A1627E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T024_Scope", "T024_Scope\T024_Scope.csproj", "{DF1D9BDB-1ACD-42D5-A078-73C6FABEB2EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{02CD515B-0920-4BB9-998A-CA8136A1627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02CD515B-0920-4BB9-998A-CA8136A1627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02CD515B-0920-4BB9-998A-CA8136A1627E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1D9BDB-1ACD-42D5-A078-73C6FABEB2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1D9BDB-1ACD-42D5-A078-73C6FABEB2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1D9BDB-1ACD-42D5-A078-73C6FABEB2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1D9BDB-1ACD-42D5-A078-73C6FABEB2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
